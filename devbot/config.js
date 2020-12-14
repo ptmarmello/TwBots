@@ -5,8 +5,5 @@
 // }
 
 module.exports = {
-    consumer_key:'KdgSL5qGGBOUjSPLpiONZIag5',
-    consumer_secret:'vZXeksHlNRDs5jWK7MMVFLQdnFvnn3LRo6LCdj46HOs27ip4tF',
-    access_token:'1314220314566578176-kSpNzNG1X5XvIUeseOWqIonGZBBElO',
-    access_token_secret:'5yuopSWL84tSqanDwWuFRHTpISaPsdsIttISLhVfjzDsk'
+    
 }
